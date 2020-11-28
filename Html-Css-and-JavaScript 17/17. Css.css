@@ -1,0 +1,41 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    text-align: center;
+    width: 900px;
+    border: 3px solid purple;
+    margin:33px auto;
+   background-color: rgb(243, 202, 166);
+}
+
+.item{
+    border: 2px solid rgb(103, 136, 103);
+    margin: 12px 3px;
+    padding: 12px 3px;
+    background: rgb(207, 202, 202);
+}
+
+#fruits{
+    float: left;
+    width: 48%;
+}
+
+#Computer{
+    float: left;
+    width: 48%;
+}
+
+#Stationary{
+    /* float: left; */
+    clear: left;
+    width: 100%;
+
+}
+
+p,h3{
+    text-align: center;
+}
+
