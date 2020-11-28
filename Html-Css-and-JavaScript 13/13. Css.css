@@ -1,0 +1,20 @@
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Lucida Sans', 'Lucida Sans Regular', 'Trebuchet MS', sans-serif;
+    color: darkorange;
+    font-size: 4.5rem;
+    /* background-color: black; */
+    background-position: 100; 
+    font-weight: 700;
+    margin: 27px 0 0;
+    /* font-size: 200px; */
+}
+
+span{
+    font-weight: bold;   
+}  
+
+/* pixel = 1/196th on inche */
+
+/* h1{
+    font-family: cursive;
+} */
