@@ -1,0 +1,22 @@
+.box{
+    display:inline-block;
+    border: 2px solid red;
+    width:150px;
+    height: 150px;
+    margin: 2px;
+}
+
+#box3{
+    /* position: relative; */
+    position: sticky;
+    /* top: 34px;
+    left: 34px; */
+    top: 3px;
+}
+
+.container{
+    height: 3444px;
+    border: 2px solid red;
+    background-color: rgb(233, 214, 197);
+}
+
