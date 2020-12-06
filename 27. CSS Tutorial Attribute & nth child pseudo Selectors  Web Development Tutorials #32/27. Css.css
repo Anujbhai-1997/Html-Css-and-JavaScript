@@ -1,0 +1,40 @@
+.container{
+    margin: 34px 23px;
+    display: block;
+    width: 233px;
+    margin: auto;
+
+}
+
+input{
+    display: block;
+}
+
+input[type='text']
+{
+    padding: 23px;
+    border: 2px solid red;
+}
+
+a[target]{
+    font-size: 44px;
+    color: violet;
+}
+
+a[target='_self']{
+    font-size: 44px;
+    color:red;
+}
+
+/* li:nth-child(2n+0)
+{
+    background-color: blue;
+    color: rgb(219, 219, 219);
+} */
+
+li:nth-child(even)
+{
+    background-color: blue;
+    color: rgb(219, 219, 219);
+}
+
